@@ -7,6 +7,7 @@ tacos-r8v
 get /todos
 post /todos
 post /todos/delete
+get /242
 
 @tables
 data
