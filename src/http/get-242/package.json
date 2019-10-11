@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-242",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
